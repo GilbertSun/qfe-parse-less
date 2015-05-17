@@ -1,0 +1,27 @@
+{
+  "name": "qfe-parse-less",
+  "version": "0.0.1",
+  "description": "a qfe plugin to parse less to css",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/GilbertSun/qfe-parse-less.git"
+  },
+  "keywords": [
+    "qfe",
+    "fis",
+    "less"
+  ],
+  "author": "GilbertSun <szb4321@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/GilbertSun/qfe-parse-less/issues"
+  },
+  "homepage": "https://github.com/GilbertSun/qfe-parse-less",
+  "dependencies": {
+    "less": "^2.5.0"
+  }
+}
